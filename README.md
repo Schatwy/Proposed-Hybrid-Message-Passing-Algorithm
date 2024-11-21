@@ -1,10 +1,10 @@
 ## Proposed-Hybrid-Message-Passing-Algorithm
 
 ## Software configuration requirements
-PYTHON JUPYTER NOREBOOK
+PYTHON 3.8.5 JUPYTER LAB 2.2.6
 
 ## Code Structure
-- `HMP.ipynb`: Proposed algorithm
+- `HMP.ipynb`: TV-AMP, TV-VAMP and Proposed algorithm
 
 ## Citation
 ```tex
